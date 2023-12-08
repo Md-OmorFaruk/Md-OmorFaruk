@@ -1,24 +1,3 @@
-<p align="center">
-  <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png" alt="MasterHead">
-</p>
-
-<h1 align="center">Hi there! I'm Md.Omor Faruk</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
-
-<!-- Add your social badges and other sections -->
-
----
-
-<!-- Coffee-themed GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-omorfaruk&show_icons=true&theme=coffee" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-omorfaruk&theme=coffee" alt="GitHub Streak" />
-</p>
-
----
 
 <!-- Other sections -->
 
