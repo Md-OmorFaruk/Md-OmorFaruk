@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210310114057/web-development-image.png" alt="MasterHead">
 </p>
+<p align="center">
+  <img src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" alt="MasterHead">
+</p>
+
 <!-- Other sections -->
 
 <h1 align="center">Hi 👋, I'm Md.Omor Faruk</h1>
