@@ -9,7 +9,7 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="center">
-  <img align="right" alt="Coding" width="400" src="https:[//t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg](https://miro.medium.com/v2/resize:fit:1100/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif)">
+  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1100/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=md-omorfaruk&label=Profile%20views&color=0e75b6&style=flat" alt="md-omorfaruk" /> </p>
