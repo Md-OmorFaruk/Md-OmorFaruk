@@ -29,9 +29,21 @@
 
 ### Connect with me:
 
-| LinkedIn | Facebook |
-|----------|----------|
-| <a href="https://www.linkedin.com/in/mdomorfaruk01/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a> | <a href="https://www.facebook.com/profile.php?id=100009080617588" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a> |
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mdomorfaruk01/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/profile.php?id=100009080617588" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
