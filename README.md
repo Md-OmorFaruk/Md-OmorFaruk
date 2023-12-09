@@ -30,30 +30,33 @@
 ### Connect with me:
 
 
-<table align="center">
+<p align="center" style="background-color: black; padding: 20px;">
+  <b style="color: white;">Connect with me:</b>
+</p>
+
+<table align="center" style="background-color: black; padding: 20px;">
   <tr>
-    <td align="center">
-      <b>LinkedIn</b>
+    <td align="center" style="padding: 20px;">
+      <b style="color: white;">LinkedIn</b>
     </td>
-    <td align="center">
-      <b>Facebook</b>
+    <td align="center" style="padding: 20px;">
+      <b style="color: white;">Facebook</b>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <a href="https://www.linkedin.com/in/mdomorfaruk01/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="border: 1px solid white;" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="padding: 20px;">
       <a href="https://www.facebook.com/profile.php?id=100009080617588" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" style="border: 1px solid white;" />
       </a>
     </td>
   </tr>
 </table>
 
-</table>
 
 
 
