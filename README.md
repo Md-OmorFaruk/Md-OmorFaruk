@@ -31,6 +31,8 @@
 
 
 <table align="center">
+  | LinkedIn | Facebook |
+|----------|----------|
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/mdomorfaruk01/" target="_blank">
