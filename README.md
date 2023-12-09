@@ -29,12 +29,7 @@
 
 ### Connect with me:
 
-
-<p align="center" style="background-color: black; padding: 20px;">
-  <b style="color: white;">Connect with me:</b>
-</p>
-
-<table align="center" style="background-color: black; padding: 20px;">
+<table align="center" style="background-color: black; padding: 40px;">
   <tr>
     <td align="center" style="padding: 20px;">
       <b style="color: white;">LinkedIn</b>
@@ -44,7 +39,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="padding: 20px;">
+    <td align="center" style="padding: 40px;">
       <a href="https://www.linkedin.com/in/mdomorfaruk01/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="border: 1px solid white;" />
       </a>
@@ -56,6 +51,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
