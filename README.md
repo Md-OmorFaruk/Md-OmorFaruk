@@ -31,8 +31,14 @@
 
 
 <table align="center">
-  | LinkedIn | Facebook |
-|----------|----------|
+  <tr>
+    <td align="center">
+      <b>LinkedIn</b>
+    </td>
+    <td align="center">
+      <b>Facebook</b>
+    </td>
+  </tr>
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/mdomorfaruk01/" target="_blank">
@@ -45,6 +51,8 @@
       </a>
     </td>
   </tr>
+</table>
+
 </table>
 
 
